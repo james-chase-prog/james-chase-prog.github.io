@@ -28,7 +28,7 @@ I am a Computer Science student with a unique background in **Chemistry** and **
 
 My passion lies in building **high-fidelity healthcare software** that bridges the gap between consumer wellness and clinical data standards. My toolkit ranges from high-level web frameworks to low-level graphics programming, allowing me to solve complex problems at any layer of the stack.
 
-* 🔭 **I’m currently working on:** [WeightSmart Analytics](https://github.com/james-chase-prog/WeightSmart) - An enterprise-grade health platform.
+* 🔭 **I’m currently working on:** [🏥 WeightSmart Analytics](https://james-chase-prog.github.io/WeightSmart/) - An enterprise-grade health platform.
 * 🌱 **I’m currently exploring:** Virtual Threads in Java 21 & Micro-Frontend Architectures.
 * 💊 **Domain Expertise:** healthcare workflow optimization
 
@@ -36,7 +36,7 @@ My passion lies in building **high-fidelity healthcare software** that bridges t
 
 ## 🚀 Featured Projects
 
-### [🏥 WeightSmart Analytics](https://github.com/james-chase-prog/WeightSmart)
+### [🏥 WeightSmart Analytics](https://james-chase-prog.github.io/WeightSmart/)
 > *A modular health ecosystem demonstrating Enterprise Architecture.*
 
 **The Stack:** `Java 21` • `Spring Boot` • `Angular (Nx)` • `Kotlin (Android)` • `HAPI FHIR`
