@@ -1,4 +1,9 @@
-title: james-chase-prog.github.io
-description: |
-  Software Developer in the Healthcare Field
-theme: minima
+theme: jekyll-theme-minimal
+title: [Your Name]
+description: Computer Science Student & HealthTech Developer
+show_downloads: false
+google_analytics:
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
