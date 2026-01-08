@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm James Chase 👋
+# Hi there, I'm James Chase (Web) 👋
 ### Computer Science Student | Pharmacy | HealthTech Developer
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
