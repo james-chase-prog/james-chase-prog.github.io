@@ -1,4 +1,9 @@
-<div align="center">
+---
+layout: default
+title: James Chase - Portfolio
+---
+
+<div align="center" markdown="1">
 
 # Hi there, I'm James Chase 👋
 ### Computer Science Student | Pharmacy | HealthTech Developer
@@ -23,7 +28,7 @@ I am a Computer Science student with a unique background in **Chemistry** and **
 
 My passion lies in building **high-fidelity healthcare software** that bridges the gap between consumer wellness and clinical data standards. My toolkit ranges from high-level web frameworks to low-level graphics programming, allowing me to solve complex problems at any layer of the stack.
 
-* 🔭 **I’m currently working on:** [WeightSmart Analytics](https://github.com/YourUsername/WeightSmart) - An enterprise-grade health platform.
+* 🔭 **I’m currently working on:** [WeightSmart Analytics](https://github.com/james-chase-prog/WeightSmart) - An enterprise-grade health platform.
 * 🌱 **I’m currently exploring:** Virtual Threads in Java 21 & Micro-Frontend Architectures.
 * 💊 **Domain Expertise:** healthcare workflow optimization
 
@@ -63,4 +68,3 @@ Most health apps are simple data loggers. WeightSmart is engineered as a **Digit
 <div align="center">
   <small><i>Future Architect of Digital Health</i></small>
 </div>
-
