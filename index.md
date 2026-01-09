@@ -5,7 +5,7 @@ title: James Chase - Portfolio
 
 <div align="center" markdown="1">
 
-# Hi there, I'm James Chase 👋
+# Hi there, I'm James Chase 
 ### Computer Science Student | Pharmacy | HealthTech Developer
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
