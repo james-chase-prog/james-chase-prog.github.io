@@ -40,7 +40,7 @@ Most health apps are simple data loggers. WeightSmart is engineered as a **Digit
 
 **Key Engineering Highlights:**
 * **Virtual Threads:** Leveraging Project Loom for high-throughput concurrency.
-* **Medical Standards:** Native implementation of `Observation` resources via HAPI FHIR.
+* **MVVM:** 
 * **Security:** Stateless authentication using strict HttpOnly Cookie rotation.
 
 [**View the full architecture & repository »**](https://github.com/james-chase-prog/WeightSmart)
