@@ -28,27 +28,28 @@ I am a Computer Science student with a unique background in **Chemistry** and **
 
 My passion lies in building **high-fidelity healthcare software** that bridges the gap between consumer wellness and clinical data standards. My toolkit ranges from high-level web frameworks to low-level graphics programming, allowing me to solve complex problems at any layer of the stack.
 
-* 🔭 **I’m currently working on:** [WeightSmart Analytics](https://james-chase-prog.github.io/WeightSmart/) - An enterprise-grade health platform.
-* 🌱 **I’m currently exploring:** Virtual Threads in Java 21 & Micro-Frontend Architectures.
+* 🔭 **I'm currently working on:** [WeightSmart](https://james-chase-prog.github.io/WeightSmart/) - A full-stack health analytics platform (CS-499 Capstone).
+* 🌱 **I'm currently exploring:** Offline-first sync architectures & adaptive data visualization.
 * 💊 **Domain Expertise:** healthcare workflow optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🏥 WeightSmart Analytics](https://james-chase-prog.github.io/WeightSmart/)
-> *A modular health ecosystem demonstrating Enterprise Architecture.*
+### [🏥 WeightSmart](https://james-chase-prog.github.io/WeightSmart/)
+> *A distributed full-stack health analytics platform — CS-499 Capstone.*
 
-**The Stack:** `Java 21` • `Spring Boot` • `Angular (Nx)` • `Kotlin (Android)` • `HAPI FHIR`
+**The Stack:** `Java 21` • `Spring Boot` • `PostgreSQL` • `Kotlin (Android)` • `Room` • `Hilt`
 
-Most health apps are simple data loggers. WeightSmart is engineered as a **Digital Twin platform**, designed to ingest high-frequency health data while maintaining strict HL7 FHIR compliance for potential EHR integration.
+WeightSmart evolved from a local-only Android monolith into a **distributed full-stack ecosystem** — a Spring Boot REST server with JWT authentication communicating with a Kotlin Android client featuring MVVM architecture, offline-first synchronization, and encrypted local storage across **80+ source files**.
 
 **Key Engineering Highlights:**
-* **Virtual Threads:** Leveraging Project Loom for high-throughput concurrency.
-* **Medical Standards:** Native implementation of `Observation` resources via HAPI FHIR.
-* **Security:** Stateless authentication using strict HttpOnly Cookie rotation.
+* **MVVM + Hilt DI:** Consistent architecture across all 5 screens with StateFlow and Channel events.
+* **Offline-First Sync:** 3-phase push/pull/cleanup protocol with WorkManager, delta sync, and tombstone-based soft deletes.
+* **Algorithmic Intelligence:** Prefix Tree (Trie) for O(L) username search, Token Bucket rate limiting, adaptive downsampling for graph visualization.
+* **Security:** JWT access/refresh tokens, Tink AES-256-GCM encrypted session storage, Spring Profiles secrets management, CORS, and rate limiting.
 
-[**View the full architecture & repository »**](https://github.com/james-chase-prog/WeightSmart)
+[**View the ePortfolio & enhancement narratives »**](https://james-chase-prog.github.io/WeightSmart/) | [**View source code »**](https://github.com/james-chase-prog/WeightSmart)
 
 ---
 
@@ -57,10 +58,10 @@ Most health apps are simple data loggers. WeightSmart is engineered as a **Digit
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Kotlin, Python, C++, JavaScript, TypeScript |
-| **Backend & Systems** | Spring Boot, Node.js, Express, HAPI FHIR, OpenGL |
-| **Frontend** | Angular (Nx), HTML5, SCSS |
-| **Mobile** | Android Native (Kotlin), Jetpack Compose |
-| **Data & Storage** | PostgreSQL, MongoDB, JSONB, MySQL |
+| **Backend & Systems** | Spring Boot, Node.js, Express, OpenGL |
+| **Frontend** | Angular, HTML5, SCSS |
+| **Mobile** | Android Native (Kotlin), Room, WorkManager, Hilt DI |
+| **Data & Storage** | PostgreSQL, MongoDB, MySQL, Room (SQLite) |
 | **Tools** | Git, Android Studio, VS Code, Eclipse, Visual Studios, Pycharm |
 
 ---
