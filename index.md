@@ -41,7 +41,7 @@ My passion lies in building **high-fidelity healthcare software** that bridges t
 
 **The Stack:** `Java 21` • `Spring Boot` • `PostgreSQL` • `Kotlin (Android)` • `Room` • `Hilt`
 
-WeightSmart evolved from a local-only Android monolith into a **distributed full-stack ecosystem** — a Spring Boot REST server with JWT authentication communicating with a Kotlin Android client featuring MVVM architecture, offline-first synchronization, and encrypted local storage across **80+ source files**.
+WeightSmart evolved from a local-only Android monolith into a **distributed full-stack ecosystem** including a Spring Boot REST server with JWT authentication communicating with a Kotlin Android client featuring MVVM architecture, offline-first synchronization, and encrypted local storage across **80+ source files**.
 
 **Key Engineering Highlights:**
 * **MVVM + Hilt DI:** Consistent architecture across all 5 screens with StateFlow and Channel events.
