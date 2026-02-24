@@ -24,7 +24,7 @@ title: James Chase - Portfolio
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student with a unique background in **Chemistry** and **Sterile Compounding Pharmacy**. After nearly a decade in the pharmaceutical industry, I returned to university to merge my domain expertise in healthcare with rigorous software engineering.
+I am a Computer Science student with a unique background in **Chemistry** and **Sterile Compounding Pharmacy**. After nearly a decade in healthcare, I returned to university to merge my domain expertise in healthcare with rigorous software engineering.
 
 My passion lies in building **high-fidelity healthcare software** that bridges the gap between consumer wellness and clinical data standards. My toolkit ranges from high-level web frameworks to low-level graphics programming, allowing me to solve complex problems at any layer of the stack.
 
